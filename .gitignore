@@ -1,0 +1,11 @@
+# MacOS
+/.DS_Store
+
+# jupyter notebook
+**/.ipynb_checkpoints
+
+# any data
+/**.csv
+/**.pickle
+/**.pkl
+/**.json
